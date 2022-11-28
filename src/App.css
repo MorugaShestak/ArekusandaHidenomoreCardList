@@ -1,5 +1,16 @@
+*{
+  background-color: #282c34;
+}
+
 .App {
   text-align: center;
+  display: block;
+  color: white;
+}
+
+details {
+  margin-bottom: 25px;
+  margin-top: 25px;
 }
 
 .App-logo {
