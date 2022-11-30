@@ -8,6 +8,8 @@ html{
   color: white;
 }
 
+
+
 @media(max-width: 600px) {
   h1 {
     font-size: 18px;
@@ -130,5 +132,5 @@ details > ul {
 
 .abilityDesc {
   font-family: Helvetica, Monaco, sans-serif;
-  font-size: 16px;
+  font-size: 20px;
 }
